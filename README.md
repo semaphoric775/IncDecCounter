@@ -6,7 +6,7 @@ An "Increment Decrement Detector" from Akuna Capital's take home project.
 
 Below is the dump of the .vcd file produced by the testbench
 
-![waveforms.PNG](waveforms.png)
+![img](https://github.com/semaphoric775/IncDecCounter/blob/master/waveforms.PNG)
 
 ### Modules
 
